@@ -1,3 +1,4 @@
+// src/clientes/cliente.entity.ts
 import { Entity, PrimaryGeneratedColumn } from 'typeorm';
 
 @Entity('CLIENTE')
